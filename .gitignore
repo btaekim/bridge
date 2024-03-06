@@ -1,11 +1,9 @@
 .idea
-myapi.db
+bridge.db
 *.pyc
 __pycache__
 migrations
 alembic.ini
-
-node_modules
 
 .venv
 .vscode
