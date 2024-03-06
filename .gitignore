@@ -14,5 +14,3 @@ dist-ssr
 .ipynb_checkpoints
 .mypy_cache
 .vscode
-
-.env
